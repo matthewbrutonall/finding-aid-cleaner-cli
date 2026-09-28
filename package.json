@@ -1,0 +1,27 @@
+{
+  "name": "finding-aid-cleaner-cli",
+  "version": "0.1.0",
+  "description": "Deterministic plain-text cleanup for archival finding aids",
+  "type": "module",
+  "bin": {
+    "finding-aid-clean": "./cli/index.js"
+  },
+  "files": [
+    "cli/",
+    "core/",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "archives",
+    "finding-aid",
+    "ocr",
+    "cli"
+  ],
+  "license": "UNLICENSED"
+}
