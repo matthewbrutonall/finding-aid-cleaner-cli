@@ -13,6 +13,14 @@ It can:
 
 It does not use AI, perform OCR, or process PDF/DOCX/image files. It does not rewrite descriptions, expand abbreviations, or correct facts. Always check the result against the original source.
 
+## Install with your AI agent
+
+Copy and paste this into your agent:
+
+```text
+Install the Finding-aid Cleaner CLI from https://github.com/matthewbrutonall/finding-aid-cleaner-cli on my computer. Check that Node.js 20 or later is available, install the repository as a command-line tool, and verify that `finding-aid-clean --version` works. Tell me how to run it. Do not clean any files yet.
+```
+
 ## Use
 
 Requires Node.js 20 or later.
