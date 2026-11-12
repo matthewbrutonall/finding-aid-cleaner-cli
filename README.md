@@ -1,5 +1,7 @@
 # Finding-aid Cleaner CLI
 
+![Plain-text finding aid passing through a terminal into cleaned text and a changes report](assets/finding-aid-cleaner-cli.png)
+
 A small command-line tool for cleaning common formatting problems in plain-text archival finding aids.
 
 It can:
